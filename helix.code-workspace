@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "helix-lang"
+		},
+		{
+			"path": "helix-lsp"
 		}
 	],
 	"settings": {}
