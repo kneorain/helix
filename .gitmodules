@@ -7,6 +7,3 @@
 [submodule "helix-highlighter"]
 	path = helix-highlighter
 	url = https://github.com/kneorain/helix-highlighter
-[submodule "helix-docs"]
-	path = helix-docs
-	url = https://github.com/kneorain/helix-docs
