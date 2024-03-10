@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "helix-lang"
+		},
+		{
+			"path": "helix-site"
+		},
+		{
+			"path": "helix-highlighter"
+		}
+	],
+	"settings": {}
+}
