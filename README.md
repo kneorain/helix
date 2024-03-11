@@ -119,9 +119,14 @@ To get started with Helix, you can follow the steps below:
    git clone https://github.com/kneorain/helix
     ```
 2. Navigate to the project directory:
-3. Install the required dependencies:
+3. Run the auto installer with
    ```bash
-   pip install -r requirements.txt
+   cd helix-lang
+   ./init
+   ```
+4. Now the venv should be installed with all the dependices andn should be as easy as
+   ```bash
+   .venv/bin/python312 helix.py syntax/test.hlx
    ```
    
 > **Warning:** Helix is currently in the early stages of development and is not yet ready for production use. The project is under active development, and breaking changes may occur. We recommend using Helix for experimental purposes only and providing feedback to help improve the language.
