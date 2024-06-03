@@ -13,5 +13,7 @@
 			"path": "helix-lsp"
 		}
 	],
-	"settings": {}
+    "settings": {
+        "svg.preview.background": "editor"
+    }
 }
