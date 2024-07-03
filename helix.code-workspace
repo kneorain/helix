@@ -1,18 +1,18 @@
 {
 	"folders": [
-		{
-			"path": "helix-highlighter"
-		},
-		{
-			"path": "helix-site"
-		},
-		{
-			"path": "helix-lang"
-		},
-		{
-			"path": "helix-lsp"
-		}
-	],
+        {
+            "path": "helix-lang"
+        },
+        {
+            "path": "helix-highlighter"
+        },
+        {
+            "path": "helix-site"
+        },
+        {
+            "path": "helix-lsp"
+        }
+    ],
     "settings": {
         "svg.preview.background": "editor"
     }
